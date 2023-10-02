@@ -1,2 +1,2 @@
 #!/bin/bash
-cmod ugo+x ./*
+cmod ugo+x */
