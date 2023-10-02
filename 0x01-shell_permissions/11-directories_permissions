@@ -1,2 +1,2 @@
 #!/bin/bash
-cmod -R +X .
+cmod -R ugo+x .
